@@ -1,0 +1,47 @@
+$ history
+    1  ll
+    2  touch f1
+    3  git init
+    4  git status
+    5  git add f1
+    6  git status
+    7  git commit -m this is my first github
+    8  git commit -m "this is my first github"
+    9  git log
+   10  git remote add orign https://github.com/Devarajulureddy/GitHubForLearning.git
+   11  git push -u origin master
+   12  git push -u origin master
+   13  git push -u origin main
+   14  git push -u origin master
+   15   ssh-keygen -t rsa -C "youremail@example.com"diyanamicreddy@g
+   16  git push -u origin master
+   17  $ ssh-keygen -t rsa -C "diyanamicreddy@gmail.com"
+   18  git push -u origin master
+   19  git remote set-url origin https://github.com/Devarajulureddy/repository.git
+   20*
+   21  git push -u origin master
+   22  git remote -v
+   23  git push origin main
+   24  git push myOrigin main
+   25  git remote remove myOrigin
+   26  git remote add origin https://github.com/Devarajulureddy/GitHubForLearning.git
+   27  git push -u origin master
+   28  touch deva
+   29  git init
+   30  git status
+   31  git add deva
+   32  git commit -t "this is my second one"
+   33  git status
+   34  git commit -m "deva second "
+   35  git log
+   36  git remote add origin https://github.com/Devarajulureddy/GitHubForLearning.git
+   37  git config --list
+   38  ll
+   39  history
+
+$ git config --global user.name “Devarajulureddy”
+ $  $ git config --global user.email diyanamicreddy@gmail.com
+ $ git config --global push.default simple
+
+13 ok 21
+
